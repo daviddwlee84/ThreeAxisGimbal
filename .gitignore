@@ -1,0 +1,9 @@
+# Uncorrelated File
+ExampleCode/*
+Documents/*
+
+# vim
+*.swp
+
+# test code
+*.out
