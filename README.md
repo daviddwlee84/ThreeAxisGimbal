@@ -1,4 +1,4 @@
-#Three Axis Stabilizer
+# Three Axis Stabilizer
 
 ## Introduction
 
@@ -25,7 +25,7 @@ The main concept is PID control. To minimum the vibration of moving camera.
 		* pid_test.cpp
 		* Makefile
 			* `make` - compile pid_test.cpp
-			* `make clean` - execution file
+			* `make clean` - remove execution file
 * Motor PID Control
 	* MotorPID.cpp
 	* MotorPID.h
